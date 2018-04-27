@@ -4,9 +4,10 @@ IP address: 18.219.142.131
 
 Url: http://18.219.142.131/
 
-**Connecting via SSH:**
+**Connecting via SSH (key will be supplied through submission form):**
 
-    ssh -i ~/.ssh/<key> ubuntu@18.219.142.131 -p 2200
+    ssh -i ~/.ssh/<key> grader@18.219.142.131 -p 2200
+    
 
 ## Software
 
